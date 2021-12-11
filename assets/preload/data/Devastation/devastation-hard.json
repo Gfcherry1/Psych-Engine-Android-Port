@@ -1,7 +1,7 @@
 {
      "song" : {
          "isMoody" : false
-        ,"player1" : "r-bf"
+        ,"player1" : "bf"
         ,"sectionLengths" : [
 
         ]
@@ -3986,14 +3986,14 @@
                 ,"bpm" : 124
             }
         ]
-        ,"player2" : "r-mom1"
+        ,"player2" : "mom"
         ,"isHey" : false
         ,"cutsceneType" : "none"
         ,"song" : "devastation"
         ,"uiType" : "corrupted"
         ,"sections" : 0
         ,"validScore" : true
-        ,"stage" : "r-test"
+        ,"stage" : "limo"
         ,"needsVoices" : true
         ,"gf" : "non"
         ,"bpm" : 124
